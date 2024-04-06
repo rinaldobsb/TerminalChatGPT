@@ -1,0 +1,27 @@
+ChatCompletion(
+    id='chatcmpl-8OR1MM6H38uRozZDGkYCsNyIv4dBn', 
+    choices=[
+        Choice(
+            finish_reason='stop', 
+            index=0, 
+            message=ChatCompletionMessage(
+                content='1. Desenvolvimento de aplicativos personalizados: ofereça serviços de desenvolvimento de aplicativos para empresas que desejam criar soluções personalizadas para suas necess
+idades.\n\n2. Consultoria em segurança cibernética: ajude empresas a proteger suas informações confidenciais e a mitigar os riscos associados à segurança online.\n\n3. Serviços de análise de dados: forneça insights e informações valiosas para empresas, utilizando ferramentas de análise de dados para identificar padrõe
+s e tendências.\n\n4. Treinamento em tecnologia: ofereça cursos e workshops para pessoas interessadas em aprender habilidades tecnológicas, como programação, design gráfico e marketing digital.\n\n5. Soluções de automação residencial: ajude os proprietários a transformar suas casas em residências inteligentes, oferece
+ndo serviços de instalação e configuração de dispositivos e sistemas de automação residencial.\n\n6. Desenvolvimento de jogos: crie jogos para diferentes plataformas, como computadores, dispositivos móveis e consoles de videogame.\n\n7. Serviços de impressão 3D: ofereça serviços de impressão 3D para empresas e indivíd
+uos interessados em criar protótipos, peças personalizadas ou objetos decorativos.\n\n8. Desenvolvimento de websites e lojas virtuais: crie websites e lojas virtuais personalizadas para empresas que desejam estabelecer uma presença online e expandir seus negócios.\n\n9. Serviços de realidade virtual e aumentada: ofere
+ça experiências imersivas usando tecnologias de realidade virtual e aumentada para setores como turismo, educação e entretenimento.\n\n10. Serviços de marketing digital: ajude empresas a aumentar sua visibilidade online, oferecendo serviços de otimização de mecanismos de busca, gerenciamento de campanhas de mídia soci
+al e estratégias de marketing digital.', 
+                role='assistant', 
+                function_call=None, 
+                tool_calls=None)
+        )
+    ], 
+    created=1700834432, 
+    model='gpt-3.5-turbo-16k-0613', 
+    object='chat.completion', 
+    system_fingerprint=None, 
+    usage=CompletionUsage(
+        completion_tokens=432, 
+        prompt_tokens=40, 
+        total_tokens=472))

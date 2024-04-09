@@ -22,3 +22,5 @@ Projeto: É uma interface do ChatGPT API feita no terminal. Features adicionadas
 - instale as dependências e o ambiente virtual com o Poetry
 - ao descrever o diálogo/agente, seja bem específico: diga o que quer com a thread, qual a personalidade e função do agente e como ele deve responder
 - ENJOY!
+
+(*) Em breve, lançamento de um software feito com Flet.

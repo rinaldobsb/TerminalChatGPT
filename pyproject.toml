@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "terminalchat"
-version = "0.1.0"
+version = "0.1.1"
 description = "ChatGPT com várias features no terminal"
 authors = ["Rinaldo <rinaldomm@outlook.com>"]
 license = "MIT"

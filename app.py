@@ -5,7 +5,7 @@ from rich.markdown import Markdown
 from rich.console import Console
 from rich.panel import Panel
 from rich.padding import Padding
-from rich.prompt import Prompt
+
 from tinydb import TinyDB
 import os
 
